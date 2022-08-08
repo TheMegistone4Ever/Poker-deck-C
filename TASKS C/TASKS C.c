@@ -1,4 +1,4 @@
-﻿/*
+/*
 Honors Peer-graded Assignment: Week 2 Honors Assignment,
 Poker,
 Nickita Kyselyov,
